@@ -1,4 +1,4 @@
-Roblox Logic Gates Learning Platform
+**Roblox Logic Gates Learning Platform**
 
 An interactive, 3D educational environment for Roblox designed to teach players the fundamentals of computer science logic gates. The system automatically generates a physical learning course where players can interact with switches, observe real-time visual logic processing, and read built-in truth tables and instructions.
 
